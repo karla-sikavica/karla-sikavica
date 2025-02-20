@@ -5,11 +5,14 @@ I'm a passionate **Full Stack Developer** and a **Computer Science Bachelor's St
 ### 🚀 What I'm working on:
 - Currently working on several **full-stack web applications** using technologies like **React**, **TypeScript**, **Node.js**, **Spring Boot** and **PostgreSQL**.
 
+### My previous work:
+- [GitHub Portfolio](https://github.com/karla-sikavica/portfolio)
+
 ### 🌱 I'm learning:
 - Deepening my knowledge in **advanced JavaScript** (ES6+), **React**, and **TypeScript**.
 
 ### 👯 I'm looking to collaborate on:
-- Projects involving **React**, **Node.js**, and **Python**.
+- Projects involving **React**, **TypeScript**, and **Java**.
 - Open to collaborating on **open-source** projects, where I can contribute to building great software.
 
 ### 📫 How to reach me:
